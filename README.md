@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#-o-e-spring">O que é Spring Boot?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-iniciando">Exercício</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-exercicio">Exercício</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">Funcionalidades</a>
 </p>
 
@@ -30,7 +30,9 @@
 
 ## 🚀 Tecnologias 
 
-Tecnologias que utilizamos para desenvolver este web client:
+<p align="center">
+<img src="https://github.com/WCL79/imagnes_diversas/blob/master/maven.png" title="Logo do Maven" />
+</p>
 
 ## 💻 Exercício
 
