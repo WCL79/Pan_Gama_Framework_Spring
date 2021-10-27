@@ -36,6 +36,12 @@
 
 - <p style="color: red;">O Maven é uma ferramenta de código aberto mantida pela Apache. Trata-se de uma ferramenta de gestão de dependências e um task runner. Em outras palavras, o Maven automatiza os processos de obtenção de dependências e de compilação de projetos Java.</p>
 
+<p align="center">
+<img src="https://github.com/WCL79/imagnes_diversas/blob/master/fluxoMavenpng.png" title="Fluxi do Maven" />
+</p>
+
+- <p style="color: red;">Como se pode ver no esquema acima  - fonte: [https://maverickgautam.blogspot.com/2015/12/playing-with-maven.html] <q> O Maven é centrado no conceito de arquivos POM (Project Object Model). Um arquivo POM é uma representação XML dos recursos do projeto como código-fonte, código de teste, dependências (JARs externos usados) etc. O POM contém referências a todos esses recursos. O arquivo POM deve estar localizado no diretório raiz do projeto ao qual pertence</q>.</p>
+
 ## 💻 Exercício
 
 - <p style="color: red;">Fazer "Olá Mundo!" com Spring Boot.</p>
