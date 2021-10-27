@@ -34,6 +34,8 @@
 <img src="https://github.com/WCL79/imagnes_diversas/blob/master/maven.png" title="Logo do Maven" />
 </p>
 
+- <p style="color: red;">O Maven é uma ferramenta de código aberto mantida pela Apache. Trata-se de uma ferramenta de gestão de dependências e um task runner. Em outras palavras, o Maven automatiza os processos de obtenção de dependências e de compilação de projetos Java.</p>
+
 ## 💻 Exercício
 
 - <p style="color: red;">Fazer "Olá Mundo!" com Spring Boot.</p>
