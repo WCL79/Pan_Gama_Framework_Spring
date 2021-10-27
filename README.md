@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#-o-e-spring">O que é Spring Boot?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-iniciando">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-iniciando">Exercício</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">Funcionalidades</a>
 </p>
 
@@ -32,5 +32,6 @@
 
 Tecnologias que utilizamos para desenvolver este web client:
 
+## 💻 Exercício
 
-## 💻 Iniciando
+- <p style="color: red;">Fazer "Olá Mundo!" com Spring Boot.</p>
